@@ -11,6 +11,6 @@ I'm a huge geek, love all things computer and techy related. Currently working a
 
 In my spare time I'm also trying to learn Game Development with Unity and C# as well as some network penetration testing. I intend to do some more courses with the Unreal Engine too. I've also loved the coding side of things ever since a friend first introduced me to the world of Pascal in DOS. Have been hooked ever since and I have some limited experience with Pascal, Delphi, C++ and Visual Basic
 
-### Current Projects (Works in progress0
+### Current Projects (Works in progress)
 
 - [Laser Defender](https://duanemetcalf.github.io/LaserDefender/) - A basic space shoot-em-up game. Is very limited but have a few ideas to expand on it when I get more time.
