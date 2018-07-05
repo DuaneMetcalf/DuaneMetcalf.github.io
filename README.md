@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DuaneMetcalf/DuaneMetcalf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+There's not much going on here at the moment, it's a work in progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I guess I'll be using this space as my online portfolio. A place to put any temporary projects I'm working on, a place to link to projects or documents that I may use if needing to show others my work, etc.
 
-### Markdown
+### Me?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well, there's not really much I can say about myself. 
+I'm a huge geek, love all things computer and techy related. Currently working as 1st line help and support for a telecommunications company, studying part time through the [Open University](http://www.open.ac.uk/) for my degree in Computing & IT. Still not sure whether to go Computer Science, Software Engineering or Software & Communications yet, but I still have time to decide.
 
-```markdown
-Syntax highlighted code block
+In my spare time I'm also trying to learn Game Development with Unity and C# as well as some network penetration testing. I intend to do some more courses with the Unreal Engine too. I've also loved the coding side of things ever since a friend first introduced me to the world of Pascal in DOS. Have been hooked ever since and I have some limited experience with Pascal, Delphi, C++ and Visual Basic
 
-# Header 1
-## Header 2
-### Header 3
+### Current Projects (Works in progress0
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DuaneMetcalf/DuaneMetcalf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Laser Defender](https://duanemetcalf.github.io/LaserDefender/) - A basic space shoot-em-up game. Is very limited but have a few ideas to expand on it when I get more time.
