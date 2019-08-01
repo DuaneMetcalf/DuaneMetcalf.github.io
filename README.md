@@ -14,4 +14,4 @@ friend first introduced me to the world of Pascal in DOS. Have been hooked ever 
 
 ### Current Projects (Works in progress)
 
-- [Laser Defender](https://duanemetcalf.github.io/LaserDefender/) - A basic space shoot-em-up game. Is very limited but have a few ideas to expand on it when I get more time.
+
