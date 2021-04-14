@@ -21,3 +21,5 @@ friend first introduced me to the world of Pascal in DOS. Have been hooked ever 
 Currently working through an online Java course, then looking to expand on this with app development with Java and Kotlin.
 
 Also going to be going through the course again, looking at all the challenges and exercises and uploading my results of those challenges. While they're not great pieces of code, they're a good resource to go back on and look at my own progression.
+
+Alongside Java, I'm looking to further develop skills with C# and using Unity to work on building a text based adventure game. It is still very much a work in progress and so far, I just have a basic underlying functionality, but making progress as and when I can.
